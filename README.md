@@ -6,7 +6,7 @@ it sends the images captured in real-time from the cameras to a server to displa
 # Application Description
 This application is facial recognition software to detect a person's face in a video (we used our webCam). From the embedded face database, this software will give us the name of the person whose face is detected.
 
-#Libraries to install
+# Libraries to install
 - opencv
 - dlib
 - numpy
